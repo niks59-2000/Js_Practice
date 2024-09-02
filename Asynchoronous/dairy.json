@@ -1,0 +1,49 @@
+[
+{
+  "title": "Brown eggs",
+  "type": "dairy",
+  "description": "Raw organic brown eggs in a basket",
+  "filename": "images/0.jpeg",
+  "height": 200,
+  "width": 100,
+  "price": 28.1,
+  "rating": 4
+}, {
+  "title": "Sweet fresh stawberry",
+  "type": "fruit",
+  "description": "Sweet fresh stawberry on the wooden table",
+  "filename": "images/1.jpeg",
+  "height": 200,
+  "width": 100,
+  "price": 29.45,
+  "rating": 4
+}, {
+  "title": "Asparagus",
+  "type": "vegetable",
+  "description": "Asparagus with ham on the wooden table",
+  "filename": "images/2.jpeg",
+  "height": 200,
+  "width": 100,
+  "price": 18.95,
+  "rating": 3
+},  {
+  "title": "Raw legums",
+  "type": "vegetable",
+  "description": "Raw legums on the wooden table",
+  "filename": "images/4.jpeg",
+  "height": 200,
+  "width": 100,
+  "price": 17.11,
+  "rating": 2
+}, {
+  "title": "Baking cake",
+  "type": "dairy",
+  "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
+  "filename": "images/5.jpeg",
+  "height": 200,
+  "width": 100,
+  "price": 11.14,
+  "rating": 4
+}
+]
+

@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    padding:30px;
+    background-color:orange;
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:100px auto;
+}
+.display{
+    border:1px solid #ddd;
+    /* min-height:50vh; */
+    /* width:50vw; */
+    min-height:50vh;
+    min-width: 50vw;
+    justify-content: space-evenly;
+    align-items: center;
+    gap:30px;
+    margin:0 200px;
+    display:flex;
+    flex-flow: row wrap;
+}
+#btn{
+    padding:15px 30px;
+    background-color: green;
+    color:white;
+    cursor: pointer;
+    font-weight: bold;
+    font-size:18px;
+    border:1px solid green;
+    margin:50px auto;
+}
+
+.products{
+    margin:50px 0;
+    font-size:1.1rem;
+}
+.title{
+    color:Red;
+    font-size:2rem;
+    font-weight: bold;
+    margin:20px 0;
+}
+.type{
+    color:#333;
+}

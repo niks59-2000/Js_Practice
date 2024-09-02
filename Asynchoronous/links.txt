@@ -1,0 +1,7 @@
+geocode:
+
+https://us1.locationiq.com/v1/reverse?key=pk.c3428a7010abbdb3b9cc5cd13970342a&lat=${lat}&lon= ${lng}&format=json&
+
+countryapi:
+
+https://restcountries.com/v3.1/name/
